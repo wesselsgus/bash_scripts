@@ -1,2 +1,4 @@
-# bash_scripts
-Bash scripts and scripting info
+# linux
+Scripts 
+
+Scripts I've found useful need a home to stay
