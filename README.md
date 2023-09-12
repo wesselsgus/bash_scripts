@@ -1,4 +1,4 @@
 # linux
 Scripts 
 
-Scripts I've found useful need a home to stay
+A home for my scripts and practice stuff.
